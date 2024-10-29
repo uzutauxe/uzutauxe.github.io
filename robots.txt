@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzutauxe.github.io/sitemap_index.uzutauxe
